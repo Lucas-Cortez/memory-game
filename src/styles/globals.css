@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  box-sizing: border-box;
+  height: 100%;
+}
+
+@layer base {
+}
+
+@layer components {
+}
+
+@layer utilities {
+  .face {
+    @apply absolute inset-0 rounded cursor-pointer;
+  }
+
+  .preserve-3d {
+    transform-style: preserve-3d;
+  }
+
+  .rotate-y-180 {
+    transform: rotateY(180deg);
+  }
+
+  .visibility-hidden {
+    backface-visibility: hidden;
+  }
+}

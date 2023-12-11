@@ -1,0 +1,6 @@
+[
+  { "img": "/assets/images/cheeseburger.png", "label": "teste1", "name": "name1" },
+  { "img": "/assets/images/fries.png", "label": "teste2", "name": "name2" },
+  { "img": "/assets/images/hotdog.png", "label": "teste3", "name": "name3" },
+  { "img": "/assets/images/ice-cream.png", "label": "teste4", "name": "name4" }
+]

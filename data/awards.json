@@ -1,0 +1,4 @@
+[
+  { "lessOrEqualThanSeconds": 15, "name": "bag" },
+  { "lessOrEqualThanSeconds": 30, "name": "jacket" }
+]
